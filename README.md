@@ -38,4 +38,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dykyimaxim&show_icons=true&theme=dark&locale=en&layout=compact" alt="dykyimaxim" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dykyimaxim&theme=dark" alt="dykyimaxim" /></p>
+
