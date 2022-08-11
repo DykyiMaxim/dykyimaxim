@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working on **Android Pet Projects**
 
-- 🌱 I’m currently learning **Best practice of building multimodul MVVM architecture with Dagger hilt**
-
 - 💼 Previous job [Anroid engineer in Sherp](https://sherpglobal.com/)
 
 - 👨‍💻 My CV available at [https://www.linkedin.com/in/maksym-dykyi-000363245/](https://www.linkedin.com/in/maksym-dykyi-000363245/)
