@@ -1,20 +1,20 @@
-## Maksym Dykyi — Senior Android Engineer
+## Maksym Dykyi, Senior Android Engineer
 
-I build mobile software for hardware that ships in the real world.
+I build the Android software inside [SHERP](https://sherp.com)'s extreme all-terrain vehicles, from the C++ CAN bus layer up to the Jetpack Compose UI, and lead the team behind it. I've worked in Android for 6+ years and also ship iOS apps and Kotlin backends.
 
-**Current:** Android lead at [SHERP](https://sherp.com) — extreme all-terrain vehicles.
-I own the mobile layer inside the vehicles. NDK, C++, Bluetooth LE, Kotlin.
+- Head of Android Engineering at SHERP: 3 vehicle models shipped, with over $1M in combined sales
+- Built the Android team from zero: hiring, technical interviews, onboarding
+- Freelance: 5+ production Android apps, plus native iOS and Ktor backends
 
-**Also do:** iOS (Swift/SwiftUI), Kotlin backend (Ktor + PostgreSQL), team building.
-
----
+Most of my production work is private. The public repos here are smaller projects.
 
 ### Stack
 
-**Android** · Kotlin · Jetpack Compose · Coroutines · NDK · C++ · Bluetooth LE · MVVM · Clean Architecture  
-**iOS** · Swift · SwiftUI · Combine · MapKit  
-**Backend** · Ktor · Exposed ORM · PostgreSQL · JWT · REST  
-**Tools** · Git · Gradle · Xcode · Android Studio · Linux
+**Android:** Kotlin, Jetpack Compose, Coroutines, Kotlin Flow, Room, Retrofit, Hilt  
+**Embedded:** Android NDK, C++, JNI, CAN bus, Bluetooth LE  
+**iOS:** Swift, SwiftUI, Combine  
+**Backend:** Kotlin, Ktor, Exposed, PostgreSQL
 
+### Contact
 
-📫 maksym@dykyi.net · [LinkedIn](https://linkedin.com/in/maksym-dykyi-000363245)
+[dykyi.net](https://dykyi.net) · [maksym@dykyi.net](mailto:maksym@dykyi.net) · [LinkedIn](https://www.linkedin.com/in/maksym-dykyi)
